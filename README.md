@@ -1,1 +1,1 @@
-Specifications written in TLA+
+TLA+ specs
